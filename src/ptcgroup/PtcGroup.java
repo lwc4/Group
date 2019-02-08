@@ -18,4 +18,9 @@ public class PtcGroup {
         // TODO code application logic here
     }
     
+    public static void cagesMethod()
+    {
+        System.out.println("ba dum tsss");
+    }
+    
 }
