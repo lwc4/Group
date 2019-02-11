@@ -21,4 +21,9 @@ public class PtcGroup {
         System.out.println("Hello There");
     }
     
+    public static void cagesMethod()
+    {
+        System.out.println("ba dum tsss");
+    }
+    
 }
