@@ -17,5 +17,8 @@ public class PtcGroup {
     public static void main(String[] args) {
         // TODO code application logic here
     }
+    public static void JakobSaysHi(){
+        System.out.println("Hello There");
+    }
     
 }
